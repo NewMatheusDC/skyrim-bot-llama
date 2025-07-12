@@ -1,0 +1,11 @@
+{
+    "token": "SEU_TOKEN_DISCORD",
+    "llama": {
+        "modelPath": "./models/llama-skyrim-gguf",
+        "contextWindow": 2048
+    },
+    "skyrim": {
+        "maxResponseLength": 1500,
+        "defaultSources": ["UESP", "Fandom"]
+    }
+}
